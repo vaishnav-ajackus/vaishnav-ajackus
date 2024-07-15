@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaishnav-ajackus
+- 👋 Hi, I’m Vaishnav Vaidheeswaran
 - 👀 I’m interested in learning new tech stuffs.
 - 🌱 I’m currently learning Prompt Compression and Query Optimization for RAG and Vector Search.
 - 💞️ I’m looking to collaborate on building Gen-AI tools.
